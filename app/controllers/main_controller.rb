@@ -1,6 +1,6 @@
 class MainController < ApplicationController
   def index
-    @test = 'hi'
+    @test = 'My Stack Works!'
   end
   
 end
